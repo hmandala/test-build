@@ -1,3 +1,15 @@
-setuptools
-numpy
+SQLAlchemy==0.9.7
+boto==2.32.1
+psycopg2==2.5.4
+tornado==4.0.2
+python-dateutil==2.2
+pytz==2014.7
+numpy>=1.8.1
+pandas>=0.13.1
 scipy>=0.13.3
+fs==0.5.0
+arrow==0.4.4
+luigi==1.0.19 
+jinja2==2.7.3
+python-snappy==0.5
+
